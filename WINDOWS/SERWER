@@ -1,0 +1,36 @@
+📥 ISO maszyn wirtualnych do egzaminu INF.02
+
+W tym repozytorium znajdziesz wszystkie obrazy ISO maszyn wirtualnych potrzebne do przygotowania się do egzaminu INF.02. Dzięki temu nie musisz tworzyć ich samodzielnie – wystarczy pobrać i korzystać!
+🔧 Co zyskujesz?
+
+    Gotowe obrazy maszyn wirtualnych
+
+    Oszczędność czasu i uniknięcie problemów z konfiguracją
+
+    Stały dostęp do aktualnych plików ISO
+
+💡 Wskazówki:
+
+    Najlepiej miej własny pendrive, żeby mieć wszystko zawsze przy sobie – bez zależności od internetu czy komputera szkolnego.
+
+    Upewnij się, że masz zainstalowany program do obsługi maszyn wirtualnych – np. VirtualBox.
+
+🖥️ Jak dodać maszynę wirtualną w VirtualBox?
+
+    Pobierz plik ISO z tego repozytorium i zapisz go w bezpiecznym miejscu (np. na pendrive).
+
+    Otwórz VirtualBox i kliknij Nowa lub New.
+
+    Wpisz nazwę maszyny (np. Debian-INF02), wybierz system operacyjny i wersję (np. Linux / Debian 64-bit), kliknij Dalej.
+
+    Przydziel pamięć RAM (np. 2048 MB lub więcej, jeśli możesz).
+
+    Wybierz opcję Utwórz nowy dysk wirtualny teraz → VDI → Dynamicznie przydzielany → ustaw rozmiar (np. 20 GB).
+
+    Po utworzeniu maszyny kliknij ją prawym przyciskiem i wybierz Ustawienia.
+
+    Przejdź do zakładki Nośniki → kliknij ikonę płyty obok napędu optycznego → Wybierz plik dysku i wskaż pobrany plik ISO.
+
+    Zatwierdź ustawienia i uruchom maszynę (Start).
+
+Maszyna uruchomi się z obrazu ISO i będziesz mógł rozpocząć pracę tak, jak na egzaminie.
